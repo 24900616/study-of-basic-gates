@@ -1,4 +1,5 @@
 ### study-of-basic-gates
+**Date:**24/09/2024
 
 **AIM:** 
 
@@ -68,7 +69,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
  Developed by:swetha k RegisterNumber: 24900616
  ```
- module log_gat(a,b,c1,c2,c3,c4,c5,c6,c7);
+ module log_gates(a,b,c1,c2,c3,c4,c5,c6,c7);
 input a,b;
 output c1,c2,c3,c4,c5,c6,c7;
 not g1(c1,a);
