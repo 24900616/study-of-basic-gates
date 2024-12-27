@@ -1,5 +1,5 @@
 ### study-of-basic-gates
-**Date:**24/09/2024
+Date:24/09/2024
 
 **AIM:** 
 
@@ -82,21 +82,17 @@ module logic_gates(a, b, c1, c2, c3, c4, c5, c6, c7);
 endmodule
 
 ```
-
- 
 **Logic symbol & Truthtable**
-![image](https://github.com/user-attachments/assets/ffc6976e-b7ca-48c6-9bb4-6338b6e65d17)
-![Screenshot (14)](https://github.com/user-attachments/assets/868ed9c5-399a-4374-9302-29bdb66894e8)
 
-
-**RTL realization Output:** 
-![Screenshot (16)](https://github.com/user-attachments/assets/dc3d55b5-3e56-44d7-91ab-46dbf3d1885f)
+![WhatsApp Image 2024-12-27 at 10 16 47_9347ba46](https://github.com/user-attachments/assets/008f755c-7366-499f-8ad6-f1b48becf195)
 
 **RTL**
+![WhatsApp Image 2024-12-27 at 10 17 56_254ca34c](https://github.com/user-attachments/assets/39bd0d08-fc7a-459f-a27f-2867385135f3)
+
+**OUTPUT**
 ![Screenshot (16)](https://github.com/user-attachments/assets/dc639a50-7e88-43cc-ba45-da9a6284531b)
 
 **Result:**
-
  The Truth table of logic gates in Quartus II using Verilog programming is verified.
 
 
